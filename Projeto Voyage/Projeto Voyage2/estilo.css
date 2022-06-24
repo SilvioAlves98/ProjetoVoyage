@@ -1,0 +1,45 @@
+img{
+    max-width: 980px;
+}
+body{
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top: -75px;
+    color: white
+}
+
+
+.header-top {
+    max-width: auto;
+    height: 120px;
+    background: #162028;
+}
+
+.logotipo {
+    height: 120px;
+}
+
+.container {
+    display: table;
+}
+
+.imagem {
+    margin-top: 10px;
+    float: left;
+    padding: auto;
+}
+
+.texto {
+    margin-top: 10px;
+    font-size: larger;
+
+
+}
+
+
+
