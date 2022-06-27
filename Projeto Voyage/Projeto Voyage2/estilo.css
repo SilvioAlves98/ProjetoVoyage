@@ -24,22 +24,69 @@ h1{
     height: 120px;
 }
 
-.container {
+.container img{
+    width: 90%;
     display: table;
-}
-
-.imagem {
-    margin-top: 10px;
+    margin-top: 5px;
     float: left;
+    margin-right: 10px;
     padding: auto;
 }
 
-.texto {
-    margin-top: 10px;
-    font-size: larger;
-
-
+.container p{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 30px;
 }
+
+.container2 img{
+    width: 700px;
+    display: table;
+    margin-top: 15px;
+    float: right;
+    margin-left: 10px;
+    padding: auto;
+}
+
+.container2 p{
+    margin-top: 22vmax;
+    font-size: 35px;
+    text-align-last: left;
+}
+
+.container3 img{
+    width: 700px;
+    display: table;
+    margin-top: 15px;
+    float: right;
+    margin-left: 10px;
+    padding: auto;
+}
+
+.container3 p{
+    margin-top: 19vmax;
+    font-size: 35px;
+    text-align-last: left;
+}
+
+.container4 img{
+    width: 700px;
+    display: table;
+    margin-top: 15px;
+    float: left;
+    margin-right: 10px;
+    padding: auto;
+}
+
+.container4 p{
+    margin-top: 18vmax;
+    font-size: 35px;
+    text-align-last: left;
+}
+
+
+
+
 
 
 
